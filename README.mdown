@@ -1,0 +1,9 @@
+Feng Shui Compass
+======================
+October 3, 2011
+
+"Feng Shui Compass" is a simple CoreAnimation example to replicate the "Compass.app" on iPhone.
+
+If you are interested to extend the code, please feel free to contact the project
+maintainer on Github.
+
